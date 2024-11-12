@@ -18,7 +18,7 @@ export const HERO_CONTENT = {
   description:
     "I'm currently in my 2nd year at York University",
   resumeLinkText: "Download Resume",
-  resumeLink: "/AhmedAbduljaderResume.pdf",
+  resumeLink: "/AhmedAbdjuladerResume.pdf",
 };
 
 export const PROJECTS = [
@@ -26,7 +26,7 @@ export const PROJECTS = [
     name: "AnonAlyze",
     description: "Winner of Best Security Hack by 1Password at CTRLHACKDELETE 2024",
     image: anonalyze,
-    link: "https://github.com/AhmedJader/LanguageAi",
+    link: "https://github.com/AhmedJader/AnonAlyze",
   },
   {
     name: "LangAI",
