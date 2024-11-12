@@ -33,7 +33,7 @@ const Projects = () => {
             <img
               src={project.image}
               alt={project.name}
-              className="absolute inset-0 w-full h-full object-cover transition-opacity duration-300"
+              className="absolute inset-0 w-full h-full object-scale-down transition-opacity duration-300"
               loading="lazy" // Lazy load images
             />
             <div className="relative z-20 p-6 flex flex-col justify-between h-full bg-black/30 text-white">

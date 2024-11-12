@@ -2,6 +2,7 @@ import todo from "../githubassets/todo.webp";
 import ecommerce from "../githubassets/webstore.webp.webp";
 import langai from "../githubassets/langai.webp";
 import weather from "../githubassets/weather.webp";
+import anonalyze from "../assets/anonalyze.webp"
 
 
 export const LINKS = [
@@ -23,8 +24,8 @@ export const HERO_CONTENT = {
 export const PROJECTS = [
   {
     name: "AnonAlyze",
-    description: "Next.js, OpenAI, TailwindCSS, TypeScript, Express.js, Apify API, JavaScript",
-    image: langai,
+    description: "Winner of Best Security Hack by 1Password at CTRLHACKDELETE 2024",
+    image: anonalyze,
     link: "https://github.com/AhmedJader/LanguageAi",
   },
   {
