@@ -17,13 +17,19 @@ export const HERO_CONTENT = {
   description:
     "I'm currently in my 2nd year at York University",
   resumeLinkText: "Download Resume",
-  resumeLink: "/resume.pdf",
+  resumeLink: "/AhmedAbduljaderResume.pdf",
 };
 
 export const PROJECTS = [
   {
+    name: "AnonAlyze",
+    description: "Next.js, OpenAI, TailwindCSS, TypeScript, Express.js, Apify API, JavaScript",
+    image: langai,
+    link: "https://github.com/AhmedJader/LanguageAi",
+  },
+  {
     name: "LangAI",
-    description: "NextJs, TailwindCSS, Typescript, Preline, Openai API, Tabler Icons,  Javascript",
+    description: "NextJs, TailwindCSS, Typescript, Preline, Openai API, Tabler Icons,  JavaScript",
     image: langai,
     link: "https://github.com/AhmedJader/LanguageAi",
   },
