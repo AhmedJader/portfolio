@@ -17,8 +17,8 @@ export const HERO_CONTENT = {
     "I'm Ahmed Abduljader, a passionate Computer Science student and Software Engineer.",
   description:
     "I'm currently in my 2nd year at York University",
-  resumeLinkText: "Download Resume",
-  resumeLink: "/AhmedAbdjuladerResume.pdf",
+  resumeLinkText: "Open Resume",
+  resumeLink: "/AhmedAbdresume.pdf",
 };
 
 export const PROJECTS = [
