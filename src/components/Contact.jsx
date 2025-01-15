@@ -44,6 +44,7 @@ const Contact = () => {
         className="text-lg md:text-5xl leading-none"
         initial="hidden"
         whileInView="visible"
+        viewport={{ once: true }}
         custom={0.4}
         variants={textVariants}
       >
@@ -54,6 +55,7 @@ const Contact = () => {
         className="text-lg md:text-2xl mt-6 max-w-3xl"
         initial="hidden"
         whileInView="visible"
+        viewport={{ once: true }}
         custom={0.6}
         variants={textVariants}
       >
@@ -66,6 +68,7 @@ const Contact = () => {
         className="text-2xl md:text-3xl font-medium mt-8"
         initial="hidden"
         whileInView="visible"
+        viewport={{ once: true }}
         custom={0.8}
         variants={textVariants}
       >
@@ -88,6 +91,7 @@ const Contact = () => {
               aria-label={link.ariaLabel}
               initial="hidden"
               whileInView="visible"
+              viewport={{ once: true }}
               custom={1.0 + index * 0.2}
               variants={iconVariants}
             >
@@ -101,6 +105,7 @@ const Contact = () => {
         className="text-sm text-stone-400 mt-36"
         initial="hidden"
         whileInView="visible"
+        viewport={{ once: true }}
         custom={1.6}
         variants={textVariants}
       >
