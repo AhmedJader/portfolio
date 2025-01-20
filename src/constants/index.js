@@ -3,6 +3,8 @@ import ecommerce from "../githubassets/webstore.webp.webp";
 import langai from "../githubassets/langai.webp";
 import weather from "../githubassets/weather.webp";
 import anonalyze from "../assets/anonalyze.webp"
+import soundmates from "../githubassets/soundmates.webp";
+import broke from "../githubassets/brokewoke.webp";
 
 
 export const LINKS = [
@@ -23,34 +25,28 @@ export const HERO_CONTENT = {
 
 export const PROJECTS = [
   {
-    name: "AnonAlyze",
+    name: "AnonAlyze CTRLHACKDELETE 2024",
     description: "Winner of Best Security Hack by 1Password at CTRLHACKDELETE 2024",
     image: anonalyze,
     link: "https://github.com/AhmedJader/AnonAlyze",
+  },
+  {
+    name: "Broke2Woke UofTHacks 12",
+    description: "Next.js, TailwindCSS, TypeScript, JavaScript, 1Password, Databricks, OAuth 2.0, PostgreSQL, Express.js, Cohere AI",
+    image: broke,
+    link: "https://github.com/HassanA01/UofTHacks12",
+  },
+  {
+    name: "SoundMates DeltaHacks 11",
+    description: "NextJS, TailwindCSS, Typescript, Javascript, Oauth 2.0, SpotifyAPI, Cohere AI",
+    image: soundmates,
+    link: "https://github.com/AhmedJader/SoundMates",
   },
   {
     name: "LangAI",
     description: "NextJs, TailwindCSS, Typescript, Preline, Openai API, Tabler Icons,  JavaScript",
     image: langai,
     link: "https://github.com/AhmedJader/LanguageAi",
-  },
-  {
-    name: "Ecommerce Website",
-    description: "",
-    image: ecommerce,
-    link: "https://github.com/AhmedJader/Refined-Ecommerce-Web-App",
-  },
-  {
-    name: "Weather App",
-    description: "",
-    image: weather,
-    link: "https://github.com/AhmedJader/WeatherAppAPI",
-  },
-  {
-    name: "Full Stack TODO App",
-    description: "",
-    image: todo,
-    link: "https://github.com/AhmedJader/fullstack-todo-frontend",
   },
 ];
 
