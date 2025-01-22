@@ -9,7 +9,7 @@ import broke from "../githubassets/brokewoke.webp";
 
 export const LINKS = [
   { href: "#projects", label: "Projects" },
-  { href: "#about", label: "About" },
+  { href: "#about", label: "About Me (:" },
   { href: "#contact", label: "Contact" },
 ];
 
@@ -53,7 +53,7 @@ export const PROJECTS = [
 export const ABOUT_CONTENT = {
   paragraphs: [
     "I am currently in my 2nd year at York University. I have a deep passion in technology from a young age, analyzing how software was built and the technology involved in creating various tools and applications.",
-    "In my spare time I enjoy listening to various genres of music such as HipHop, Pop, R&B, and Electronic Music. I also enjoy consuming various forms of media such as video games, reading webtoons and anime (Stereotypical of a CS student I know...)",
+    "",
   ],
 };
 
