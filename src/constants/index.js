@@ -32,7 +32,7 @@ export const PROJECTS = [
   },
   {
     name: "Broke2Woke UofTHacks 12",
-    description: "Next.js, TailwindCSS, TypeScript, JavaScript, 1Password, Databricks, OAuth 2.0, PostgreSQL, Express.js, Cohere AI",
+    description: "Next.js, TailwindCSS, TypeScript, JavaScript, Databricks, OAuth 2.0, PostgreSQL, Express.js, Cohere AI",
     image: broke,
     link: "https://github.com/HassanA01/UofTHacks12",
   },
