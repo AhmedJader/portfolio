@@ -20,7 +20,7 @@ export const HERO_CONTENT = {
   description:
     "I'm currently in my 2nd year at York University",
   resumeLinkText: "Open Resume",
-  resumeLink: "/ahmedabduljaderResume (13)",
+  resumeLink: "/ahmedjad.pdf",
 };
 
 export const PROJECTS = [
