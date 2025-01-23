@@ -9,7 +9,7 @@ import broke from "../githubassets/brokewoke.webp";
 
 export const LINKS = [
   { href: "#projects", label: "Projects" },
-  { href: "#about", label: "About Me (:" },
+  { href: "#about", label: "About Me" },
   { href: "#contact", label: "Contact" },
 ];
 
