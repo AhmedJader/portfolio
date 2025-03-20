@@ -52,8 +52,13 @@ export const PROJECTS = [
 
 export const ABOUT_CONTENT = {
   paragraphs: [
-    "I am currently in my 2nd year at York University. I have a deep passion in technology from a young age, analyzing how software was built and the technology involved in creating various tools and applications.",
-    "",
+    "Hey, I’m Ahmed Abduljader, a Computer Science student at York University with a passion for software development, AI, and all things tech.",
+    "I could use this space to list my skills, but let’s be real—you can already guess that I spend most of my time coding, reading documentation, and working on projects. Instead, let me tell you what makes me different:",
+    "When I’m not behind a screen, I’m in the gym pushing my limits—literally. I started my fitness journey benching a humble 95 lbs, but through relentless progression, strategic training, and the right supplementation (yes, I dry scoop pre-workout and creatine), I’ve hit a staggering 225 lbs bench press while maxing out the chest-fly machine (because let’s be honest, chest day is elite), whilst going from being dangerously underweight for my size, to putting on a whopping 20-30 pounds of muscle in under a year all around my body",
+    "Over the past four years, I’ve refined my own training philosophy, combining compound strength movements with cable-based isolation work to optimize muscle growth and performance. Understanding how my body responds to different training styles is a process I approach scientifically—JUST like coding.",
+    "why did I choose to describe myself in this out-of-the-norm manner? Because this is how I perceive situations, it's a glimpse into how I plan out my goals, achieve my ambitions, and it's more than 'I like developing just cuz'.",
+    "Whether it’s engineering robust software solutions or perfecting my physique, I’m always analyzing, iterating, and improving, and simply showcasing ONE of my hobbies has hopefully exposed you to who I am behind the screen.",
+    "If you’re into software development, AI, or pushing limits (in tech or the gym), let’s connect! I’m always open to learning, collaborating, and discussing ambitious ideas.",
   ],
 };
 
